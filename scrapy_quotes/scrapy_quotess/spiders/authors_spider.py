@@ -1,5 +1,5 @@
 import scrapy
-from scrapy_quotes.items import AuthorItem
+from Scrap_web.scrapy_quotes.scrapy_quotess.items import AuthorItem
 
 
 class AuthorsSpider(scrapy.Spider):
